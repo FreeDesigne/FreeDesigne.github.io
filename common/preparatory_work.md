@@ -13,7 +13,7 @@
 
 ## 1.1. 注册
 
-网址: https://github.com
+网址: https://github.com  
 **[不翻墙访问github方式(有梯子同学pass)](dns_setting.md)**
 
 ## 1.2. 加入github团队
