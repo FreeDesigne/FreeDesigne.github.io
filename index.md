@@ -10,8 +10,8 @@
 
 ## 1.1. 公共
 
-[github dns配置](common/dns_setting.md)
-[预备工作](common/preparatory_work.md)
+- [github dns配置](common/dns_setting.md)  
+- [预备工作](common/preparatory_work.md)
 
 ## 1.2. 前端
 
