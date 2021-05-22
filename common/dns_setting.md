@@ -7,8 +7,8 @@
 <!-- /TOC -->
 # 1. 下载switchhosts
 
-[mac](https://qiniu.public.shoogoome.com/SwitchHosts_4.0.1.6051.dmg)
-[windows](https://qiniu.public.shoogoome.com/SwitchHosts_installer_4.0.1.6051.exe)
+[mac下载](https://qiniu.public.shoogoome.com/SwitchHosts_4.0.1.6051.dmg)  
+[windows下载](https://qiniu.public.shoogoome.com/SwitchHosts_installer_4.0.1.6051.exe)
 
 # 2. 添加dns记录
 
