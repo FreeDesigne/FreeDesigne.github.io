@@ -60,4 +60,4 @@ dns记录
 # 3. 使用须知
 
 1. 此后访问github需开启该dns记录修改
-2. windows启动switchhosts时需右键，管理员角色启动`>
+2. windows启动switchhosts时需右键，管理员角色启动

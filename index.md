@@ -10,7 +10,7 @@
 
 ## 1.1. 公共
 
-[dns配置](common/dns_setting.md)
+[github dns配置](common/dns_setting.md)
 
 ## 1.2. 前端
 
