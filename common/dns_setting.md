@@ -8,14 +8,14 @@
 # 1. 下载switchhosts
 
 [mac](https://qiniu.public.shoogoome.com/SwitchHosts_4.0.1.6051.dmg)
-[windows](https://qiniu.public.shoogoome.com/SwitchHosts_4.0.1.6051.exe)
+[windows](https://qiniu.public.shoogoome.com/SwitchHosts_installer_4.0.1.6051.exe)
 
 # 2. 添加dns记录
 
 ![](../images/common/switchhosts.png)
 
 dns记录
-``
+```
 # github
 # GitHub520 Host Start
 140.82.114.26                 alive.github.com
@@ -55,7 +55,7 @@ dns记录
 # Update time: 2021-05-22T06:05:14+08:00
 # Star me GitHub url: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
-``
+```
 
 # 3. 使用须知
 
